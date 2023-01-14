@@ -31,7 +31,7 @@ export default function UrlShortenerForm() {
       </form>
       {shortUrl && (
         <a href={`${BASE_URL}/${shortUrl?.data?.shortId}`}>
-          Your short url is: {window.location.origin}/{shortUrl?.data?.shortId}
+          Your short url is:{shortUrl?.data?.shortId}
         </a>
       )}
     </Box>
