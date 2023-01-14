@@ -4,8 +4,10 @@
   "description": "Squeezr is a URL shortener to reduce a long link.",
   "main": "index.js",
   "scripts": {
+    "start": "node dist/index.js",
+    "build": "tsc",
     "prettier-format": "prettier --config .prettierrc 'lib/**/*.ts' --write",
-    "start": "nodemon --watch './**/*.ts' --exec 'ts-node' lib/index.ts",
+    "dev": "nodemon --watch './**/*.ts' --exec 'ts-node' lib/index.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
