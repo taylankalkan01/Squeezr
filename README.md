@@ -18,6 +18,18 @@ Squeezr is a URL shortener to reduce a long link.
 
 ## Screenshots
 
+* Run Locally
+
+<img width="993" alt="Screen Shot 2023-01-14 at 3 29 08 PM" src="https://user-images.githubusercontent.com/69582787/212499762-e2dd65f2-7abd-4fd6-a3a2-a6dd1842278b.png">
+
+
+* Home Page
+
+<img width="1470" alt="Screen Shot 2023-01-14 at 3 33 01 PM" src="https://user-images.githubusercontent.com/69582787/212499765-c2f41c21-7e97-480b-bfa7-e3f2d80afb84.png">
+
+* Short URL (if you click the short URL, you will redirect to the page)
+
+<img width="1470" alt="Screen Shot 2023-01-14 at 4 17 38 PM" src="https://user-images.githubusercontent.com/69582787/212499767-6d1b07ec-276b-4011-b5e1-7c86c0081fc7.png">
 
 
 
